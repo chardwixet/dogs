@@ -1,0 +1,12 @@
+.dog-list-view {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    gap: 10px;
+}
+
+.dog-list-view__item {
+    
+}
